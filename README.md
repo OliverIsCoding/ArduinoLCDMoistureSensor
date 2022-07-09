@@ -1,2 +1,2 @@
 # ArduinoLCDMoistureSensor
-Lcd sreen code for humidity sensor
+Lcd screen code for humidity sensor 
